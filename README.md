@@ -27,7 +27,7 @@ I am currently seeking an entry-level **Data Analyst** role where I can contribu
 ## 🎓 Education
 **Master of Computer Applications**  
 Nitte Meenakshi Institute of Technology – VTU  
-CGPA: 7.17
+CGPA: 7.17 October 2023 – August 2025
 
 ---
 
@@ -100,6 +100,8 @@ Apr 2025 – Jun 2025
 ---
 
 ## 📫 Contact
-📧 Email: dhanushdhanu1941@gmail.com  
+📧 Email: [dhanushdhanu1941@gmail.com]/(dhanushdhanu1941@gmail.com)  
+📞 Phone  +91 8884730739
 🔗 LinkedIn: https://linkedin.com/in/dhanush-thetechie  
 💻 GitHub: https://github.com/dhanushmaranii2604
+
