@@ -100,7 +100,7 @@ Apr 2025 – Jun 2025
 ---
 
 ## 📫 Contact
-📧 Email: [dhanushdhanu1941@gmail.com]/(dhanushdhanu1941@gmail.com)  
+📧 Email: dhanushdhanu1941@gmail.com / dhanushmaranii@gmail.com
 📞 Phone  +91 8884730739
 🔗 LinkedIn: https://linkedin.com/in/dhanush-thetechie  
 💻 GitHub: https://github.com/dhanushmaranii2604
