@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanush M</h1>
 
 <p align="center">
-  <img src="profile.png" width="180" style="border-radius:50%">
+  <img src="profile.jpeg" width="280">
 </p>
 
 <p align="center">
