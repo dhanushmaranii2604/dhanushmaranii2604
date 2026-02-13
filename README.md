@@ -25,10 +25,12 @@ I am currently seeking an entry-level **Data Analyst** role where I can contribu
 ---
 
 ## 🎓 Education
-Course: Master of Computer Applications. (MCA)
-University: Visvesvaraya Technological University (VTU)
-College: Nitte Meenakshi Institute of Technology,
-CGPA: 7.17 October 2023 – August 2025
+
+**Master of Computer Applications (MCA)**  
+Nitte Meenakshi Institute of Technology, Bangalore  
+Visvesvaraya Technological University (VTU)  
+📅 Oct 2023 – Aug 2025  
+📊 CGPA: 7.17
 
 ---
 
