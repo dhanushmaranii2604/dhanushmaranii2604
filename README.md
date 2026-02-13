@@ -1,74 +1,105 @@
-<h1 align="center">Hi 👋 I'm Dhanush M</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI</h3>
+<h1 align="center">Hi 👋, I'm Dhanush M</h1>
 
 <p align="center">
-<img src="profile.jpg" width="180">
+  <img src="profile.png" width="180" style="border-radius:50%">
 </p>
 
 <p align="center">
-  <a href="mailto:dhanushdhanu1941@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/dhanush-thetechie">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/dhanushmaranii2604">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" />
+</p>
+
+<p align="center">
+  <a href="mailto:dhanushdhanu1941@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/dhanush-thetechie"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/dhanushmaranii2604"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am an MCA postgraduate passionate about analysing data and extracting insights.  
-I work on real-world datasets, perform exploratory data analysis, build forecasting models and create dashboards that support decision-making.
+I am a Master of Computer Applications (MCA) graduate passionate about data analytics and problem solving.  
+I enjoy working with datasets, performing exploratory data analysis, building forecasting models and creating dashboards to support business decisions.
 
-Currently seeking an entry-level **Data Analyst** role.
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,cs,dotnet" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
-</p>
+I am currently seeking an entry-level **Data Analyst** role where I can contribute analytical thinking and technical skills to real world problems.
 
 ---
 
-## 🚀 Featured Projects
-
-📊 **Sales Forecasting Dashboard**
-- ARIMA time series forecasting
-- Analysed 20,000+ records
-- Power BI KPI dashboard
-
-🌿 **Plant Disease Detection (AI)**
-- Image classification using deep learning
-- Data preprocessing and EDA
-
-💡 **IoT Motion Detection Light**
-- Smart automation and energy saving system
+## 🎓 Education
+**Master of Computer Applications**  
+Nitte Meenakshi Institute of Technology – VTU  
+CGPA: 7.17
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Technical Skills
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhanushmaranii2604&show_icons=true&theme=radical">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushmaranii2604&theme=radical">
-</p>
+### Programming
+- Python (Pandas, NumPy, Matplotlib)
+
+### Database
+- SQL (Joins, Aggregations, Subqueries)
+
+### Visualization
+- Power BI (KPIs, DAX)
+- Tableau
+
+### Tools
+- Excel (Pivot Tables, XLOOKUP)
+- Git & GitHub
+
+### Concepts
+- Data Cleaning
+- Exploratory Data Analysis
+- Time Series Forecasting
+- Statistics (Correlation & Regression)
+
+---
+
+## 💼 Internship Experience
+
+**Web Development Intern — Digital Bheem (Remote)**  
+Apr 2025 – Jun 2025
+
+- Worked with structured application data during development and debugging
+- Identified issues affecting functionality and performance
+- Assisted in UI/UX improvements and layout consistency
+- Improved usability and user interaction flow
+
+---
+
+## 🚀 Projects
+
+### 📊 Sales Forecasting & Business Intelligence Dashboard
+- Analysed 20,000+ sales records
+- Applied data cleaning and transformation
+- Built ARIMA forecasting model
+- Created Power BI dashboard with KPIs and regional insights
+
+---
+
+### 🌿 Visual Plant Disease Diagnosis using AI
+- Analysed image dataset using Python
+- Performed EDA and visualization
+- Compared ML and DL model performance
+- Provided disease prediction support
+
+---
+
+### 💡 IoT Motion Detection Light
+- Sensor based smart lighting automation
+- Energy efficient light control
+- Real-time monitoring concept
+
+---
+
+## 📜 Certifications
+- Data Analytics Essentials — Cisco Networking Academy
+- Data Visualization with Effective Insights — Tata Forage
+- C# & Business Intelligence — Infosys Springboard
 
 ---
 
 ## 📫 Contact
-
-📧 dhanushdhanu1941@gmail.com  
-🔗 https://linkedin.com/in/dhanush-thetechie
+📧 Email: dhanushdhanu1941@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/dhanush-thetechie  
+💻 GitHub: https://github.com/dhanushmaranii2604
