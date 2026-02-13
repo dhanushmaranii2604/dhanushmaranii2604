@@ -25,8 +25,9 @@ I am currently seeking an entry-level **Data Analyst** role where I can contribu
 ---
 
 ## 🎓 Education
-**Master of Computer Applications**  
-Nitte Meenakshi Institute of Technology – VTU  
+Course: Master of Computer Applications. (MCA)
+University: Visvesvaraya Technological University (VTU)
+College: Nitte Meenakshi Institute of Technology,
 CGPA: 7.17 October 2023 – August 2025
 
 ---
@@ -54,6 +55,13 @@ CGPA: 7.17 October 2023 – August 2025
 - Statistics (Correlation & Regression)
 
 ---
+
+## 📚 Currently Learning
+- Advanced SQL queries
+- Dashboard storytelling techniques
+- Data visualization best practices
+
+ ---
 
 ## 💼 Internship Experience
 
@@ -98,6 +106,15 @@ Apr 2025 – Jun 2025
 - C# & Business Intelligence — Infosys Springboard
 
 ---
+
+## 🤝 Soft Skills
+Problem Solving • Analytical Thinking • Attention to Detail • Communication • Team Collaboration
+--
+
+## 📌 Availability
+Open to internships and entry-level Data Analyst opportunities.
+
+--
 
 ## 📫 Contact
 
