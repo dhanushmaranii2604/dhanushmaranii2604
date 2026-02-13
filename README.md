@@ -108,15 +108,20 @@ Apr 2025 – Jun 2025
 - C# & Business Intelligence — Infosys Springboard
 
 ---
-
 ## 🤝 Soft Skills
-Problem Solving • Analytical Thinking • Attention to Detail • Communication • Team Collaboration
---
+- Problem Solving
+- Analytical Thinking
+- Attention to Detail
+- Communication
+- Team Collaboration
+
+----
 
 ## 📌 Availability
-Open to internships and entry-level Data Analyst opportunities.
+I am currently open to internships and entry-level Data Analyst opportunities.
 
---
+
+----
 
 ## 📫 Contact
 
@@ -131,5 +136,12 @@ Open to internships and entry-level Data Analyst opportunities.
 💻 <b>GitHub:</b> <a href="https://github.com/dhanushmaranii2604">github.com/dhanushmaranii2604</a>
 
 </p>
+
+---
+
+### ⭐ Thank you for visiting my profile
+I believe data tells a story — my goal is to turn numbers into meaningful insights that support better decisions.
+
+Always open to learning, collaboration, and new opportunities.
 
 
