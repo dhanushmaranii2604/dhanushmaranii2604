@@ -94,6 +94,14 @@ Seshadripuram First Grade College — Bangalore City University (2020–2023)
 </div>
 </div>
 
+<div class="section">
+<h2>🤖 Ask Me</h2>
+<div class="chat">
+<input id="q" placeholder="Ask about my skills or projects">
+<button onclick="reply()">Ask</button>
+<p id="a"></p>
+</div>
+</div>
 
 <div class="section" id="contact">
 <h2>📬 Contact</h2>
@@ -104,7 +112,7 @@ Seshadripuram First Grade College — Bangalore City University (2020–2023)
 
 <div class="footer">
 <p>Thanks for visiting my profile 🙌</p>
-<p><i>"Without data, you’re just another person with an opinion." </i></p>
+<p><i>"Without data, you’re just another person with an opinion." — W. Edwards Deming</i></p>
 <p>© 2026 Dhanush M</p>
 </div>
 
