@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanush M</h1>
 
-<p align="center">
-  <img src="profile.jpeg" width="280">
-</p>
+<a href="Dhanush_M_Resume.pdf" target="_blank">View / Download Resume</a>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" />
