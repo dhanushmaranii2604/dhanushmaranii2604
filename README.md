@@ -1,145 +1,84 @@
-<h1 align="center">Hi 👋, I'm Dhanush M</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dhanush M | Data Analyst</title>
+<style>
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f5f7fa;color:#222}
+.container{max-width:1000px;margin:auto;padding:20px}
+.header{text-align:center;padding:40px 20px}
+.header h1{margin:0;font-size:34px}
+.header p{margin:6px 0 18px;color:#555}
+.btn{display:inline-block;background:#2563eb;color:#fff;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold}
+.section{background:#fff;margin-top:20px;padding:22px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+.section h2{margin-top:0;border-bottom:2px solid #e5e7eb;padding-bottom:8px}
+.skills span{display:inline-block;background:#eef2ff;margin:6px;padding:6px 10px;border-radius:6px;font-size:14px}
+.project{margin-bottom:18px}
+.project h3{margin-bottom:6px}
+.links a{margin-right:12px;color:#2563eb;text-decoration:none;font-weight:bold}
+.footer{text-align:center;margin-top:30px;color:#666;font-size:14px}
+</style>
+</head>
+<body>
+<div class="container">
 
-<a href="Dhanush_M_Resume.pdf" target="_blank">View / Download Resume</a>
+<div class="header">
+<h1>Dhanush M</h1>
+<p>Data Analyst | Python • SQL • Power BI • Excel</p>
+<a class="btn" href="Dhanush_M_Resume.pdf" target="_blank">View / Download Resume</a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" />
-</p>
+<div class="section">
+<h2>About Me</h2>
+<p>Data Analyst skilled in Python, SQL, Excel and Power BI. Analyzed large datasets, built forecasting models and created KPI dashboards to derive business insights. Interested in reporting, dashboarding and analytics roles.</p>
+</div>
 
-<p align="center">
-  <a href="mailto:dhanushdhanu1941@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/dhanush-thetechie"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/dhanushmaranii2604"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
-</p>
+<div class="section">
+<h2>Skills</h2>
+<div class="skills">
+<span>Python</span><span>SQL</span><span>Power BI</span><span>Excel</span><span>Tableau</span>
+<span>Data Cleaning</span><span>EDA</span><span>Dashboarding</span><span>KPI Tracking</span><span>Trend Analysis</span>
+</div>
+</div>
 
----
+<div class="section">
+<h2>Projects</h2>
 
-## 👨‍💻 About Me
-I am a Master of Computer Applications (MCA) graduate passionate about data analytics and problem solving.  
-I enjoy working with datasets, performing exploratory data analysis, building forecasting models and creating dashboards to support business decisions.
+<div class="project">
+<h3>Sales Forecasting & BI Dashboard</h3>
+<p>Cleaned and analyzed 20,000+ sales records, built forecasting model and created Power BI dashboard tracking revenue and regional performance.</p>
+<div class="links">
+<a href="#">GitHub</a>
+<a href="#">Dashboard</a>
+</div>
+</div>
 
-I am currently seeking an entry-level **Data Analyst** role where I can contribute analytical thinking and technical skills to real world problems.
+<div class="project">
+<h3>Plant Disease Detection using AI</h3>
+<p>Performed exploratory data analysis on image dataset and evaluated model performance using Python and visualization libraries.</p>
+<div class="links">
+<a href="#">GitHub</a>
+</div>
+</div>
 
----
+</div>
 
-## 🎓 Education
+<div class="section">
+<h2>Education</h2>
+<p>MCA — Nitte Meenakshi Institute of Technology | VTU | 2023–2025 | CGPA 7.17</p>
+<p>BCA — Seshadripuram First Grade College | BCU | 2020–2023 | 73.94%</p>
+</div>
 
-**Master of Computer Applications (MCA)**  
-Nitte Meenakshi Institute of Technology, Bangalore  
-Visvesvaraya Technological University (VTU)  
-📅 Oct 2023 – Aug 2025  
-📊 CGPA: 7.17
+<div class="section">
+<h2>Contact</h2>
+<p>Email: <a href="mailto:dhanushdhanu1941@gmail.com">dhanushdhanu1941@gmail.com</a></p>
+<p>LinkedIn: <a href="https://linkedin.com/in/dhanush-thetechie" target="_blank">linkedin.com/in/dhanush-thetechie</a></p>
+<p>GitHub: <a href="https://github.com/dhanushmaranii2604" target="_blank">github.com/dhanushmaranii2604</a></p>
+</div>
 
----
+<div class="footer">© 2026 Dhanush M</div>
 
-## 🧠 Technical Skills
-
-### Programming
-- Python (Pandas, NumPy, Matplotlib)
-
-### Database
-- SQL (Joins, Aggregations, Subqueries)
-
-### Visualization
-- Power BI (KPIs, DAX)
-- Tableau
-
-### Tools
-- Excel (Pivot Tables, XLOOKUP)
-- Git & GitHub
-
-### Concepts
-- Data Cleaning
-- Exploratory Data Analysis
-- Time Series Forecasting
-- Statistics (Correlation & Regression)
-
----
-
-## 📚 Currently Learning
-- Advanced SQL queries
-- Dashboard storytelling techniques
-- Data visualization best practices
-
- ---
-
-## 💼 Internship Experience
-
-**Web Development Intern — Digital Bheem (Remote)**  
-Apr 2025 – Jun 2025
-
-- Worked with structured application data during development and debugging
-- Identified issues affecting functionality and performance
-- Assisted in UI/UX improvements and layout consistency
-- Improved usability and user interaction flow
-
----
-
-## 🚀 Projects
-
-### 📊 Sales Forecasting & Business Intelligence Dashboard
-- Analysed 20,000+ sales records
-- Applied data cleaning and transformation
-- Built ARIMA forecasting model
-- Created Power BI dashboard with KPIs and regional insights
-
----
-
-### 🌿 Visual Plant Disease Diagnosis using AI
-- Analysed image dataset using Python
-- Performed EDA and visualization
-- Compared ML and DL model performance
-- Provided disease prediction support
-
----
-
-### 💡 IoT Motion Detection Light
-- Sensor based smart lighting automation
-- Energy efficient light control
-- Real-time monitoring concept
-
----
-
-## 📜 Certifications
-- Data Analytics Essentials — Cisco Networking Academy
-- Data Visualization with Effective Insights — Tata Forage
-- C# & Business Intelligence — Infosys Springboard
-
----
-## 🤝 Soft Skills
-- Problem Solving
-- Analytical Thinking
-- Attention to Detail
-- Communication
-- Team Collaboration
-
-----
-
-## 📌 Availability
-I am currently open to internships and entry-level Data Analyst opportunities.
-
-
-----
-
-## 📫 Contact
-
-<p align="left">
-
-📧 <b>Email:</b> <a href="mailto:dhanushdhanu1941@gmail.com">dhanushmaranii@gmail.com.com</a> <br>
-
-📞 <b>Phone:</b> <a href="tel:+918884730739">+91 8884730739</a> <br>
-
-🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/dhanush-thetechie">linkedin.com/in/dhanush-thetechie</a> <br>
-
-💻 <b>GitHub:</b> <a href="https://github.com/dhanushmaranii2604">github.com/dhanushmaranii2604</a>
-
-</p>
-
----
-
-### ⭐ Thank you for visiting my profile
-I believe data tells a story — my goal is to turn numbers into meaningful insights that support better decisions.
-
-Always open to learning, collaboration, and new opportunities.
-
-
+</div>
+</body>
+</html>
