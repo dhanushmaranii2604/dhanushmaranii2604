@@ -1,5 +1,4 @@
-# Dhanush M
-### IT Support Executive turning ERP tickets into insight — building toward Application Support & Data Analytics
+<h1 align="center">Hi there, I'm Dhanush M 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F5C99&center=true&vCenter=true&width=650&lines=IT+Support+Executive+%7C+Application+Support;ERP+%2F+POS+Systems+%7C+SQL+%26+Power+BI;Wildfox+Business+Advocacy+(WFX)" alt="Typing SVG" />
@@ -10,6 +9,15 @@
   <a href="https://linkedin.com/in/dhanush-thetechie">LinkedIn</a> ·
   <a href="https://github.com/dhanushmaranii2604">GitHub</a> ·
   <a href="https://github.com/dhanushmaranii2604/dhanushmaranii2604/raw/main/Dhanush_M_Resume.pdf">Download Resume</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
