@@ -23,18 +23,11 @@
 ---
 
 ## 👨‍💻 Professional Summary
+MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox Business Advocacy (WFX). I specialize in providing L1/L2 technical support for Ginesys ERP and POS applications across multiple retail clients.
 
-```python
-class DhanushM:
-    def __init__(self):
-        self.role = "IT Support Executive | ERP Support"
-        self.location = "Bengaluru, India"
-        self.skills = ["SQL", "Power BI", "Python", "Flask", "TOAD", "MySQL"]
-        self.learning = ["Advanced SQL", "Power BI", "ITIL Foundation"]
-    
-    def current_focus(self):
-        return "Resolving tickets, ensuring SLA compliance, and building ERP tools."
-```
+*   **Core Expertise:** Incident Management, Application Troubleshooting, Root Cause Analysis, ERP Configuration, and POS Issue Resolution.
+*   **Technical Skills:** Windows Systems, Basic Networking, Remote Support Tools, SQL, Power BI, and Technical Documentation.
+*   **Current Focus:** Growing toward an Application Support Engineer / Data Analyst role.
 
 ## 💼 Current Role
 **IT Support Executive** · Wildfox Business Advocacy (WFX) · Bengaluru, India · *May 2026 – Present*
