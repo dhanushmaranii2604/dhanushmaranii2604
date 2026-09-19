@@ -112,7 +112,7 @@ class DhanushM:
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushmaranii2604&theme=dracula&hide_border=true" alt="Dhanush's GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=dhanushmaranii2604&theme=dracula&hide_border=true" alt="Dhanush's GitHub Streak" width="60%" />
 </p>
 
 ## 💬 Random Dev Quote
@@ -125,5 +125,3 @@ class DhanushM:
 *   💼 **LinkedIn:** [linkedin.com/in/dhanush-thetechie](https://www.linkedin.com/in/dhanush-thetechie/)
 *   📍 **Location:** Bengaluru, India
 *   🗣️ **Languages:** English, Hindi, Kannada
-*   💻 **LeetCode:** [leetcode.com/your-username](https://leetcode.com/) *(Replace with your actual link!)*
-*   🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) *(Replace with your actual link, or delete this line if you don't have one)*
