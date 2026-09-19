@@ -98,15 +98,6 @@ Seshadripuram First Grade College, Bengaluru City University (BCU) · 2020 – 2
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushmaranii2604&show_icons=true&theme=default&hide_border=true" alt="Dhanush's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushmaranii2604&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 📧 [dhanushmaranii@gmail.com](mailto:dhanushmaranii@gmail.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/dhanush-thetechie](https://linkedin.com/in/dhanush-thetechie) &nbsp;|&nbsp; 📍 Bengaluru, India
