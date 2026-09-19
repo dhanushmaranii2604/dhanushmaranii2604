@@ -29,12 +29,11 @@ class DhanushM:
     def __init__(self):
         self.role = "IT Support Executive | ERP Support"
         self.location = "Bengaluru, India"
-        self.experience = "L1/L2 Support, Ginesys ERP, POS Applications"
         self.skills = ["SQL", "Power BI", "Python", "Flask", "TOAD", "MySQL"]
-        self.currently_learning = ["Advanced SQL", "Power BI", "ITIL Foundation"]
+        self.learning = ["Advanced SQL", "Power BI", "ITIL Foundation"]
     
     def current_focus(self):
-        return "Resolving 10-20 incident tickets daily, ensuring SLA compliance, and building web-based ERP reporting tools using SQL and Power BI."
+        return "Resolving tickets, ensuring SLA compliance, and building ERP tools."
 ```
 
 ## 💼 Current Role
