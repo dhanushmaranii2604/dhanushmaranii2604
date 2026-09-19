@@ -97,21 +97,6 @@ MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox 
 *   **Google Cloud Computing Foundations** — NPTEL · Credential ID: NPTEL24CS131S552806127
 *   **Introduction to DevOps Tools** — Simplilearn · Credential ID: 7649959
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushmaranii2604&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=dhanushmaranii2604&theme=dracula&hide_border=true" alt="Dhanush's GitHub Streak" width="60%" />
-</p>
-
-## 💬 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</p>
-
 ## 📫 Let's Connect
 *   📧 **Email:** dhanushmaranii@gmail.com
 *   💼 **LinkedIn:** [linkedin.com/in/dhanush-thetechie](https://www.linkedin.com/in/dhanush-thetechie/)
