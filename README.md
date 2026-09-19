@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dhanush M 👋</h1>
-<h3 align="center">IT Support Executive | Aspiring Data Analyst | Python, SQL, Power BI & Excel | MCA Graduate</h3>
+<h3 align="center">IT Support Executive | ERP Support</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanush-thetechie/">
@@ -19,7 +19,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-MCA graduate working as an **IT Support Executive** at Wildfox Business Advocacy (WFX), providing L1/L2 technical support for Ginesys ERP and POS applications across multiple retail clients. Experienced in incident management, application troubleshooting, root-cause analysis, ERP configuration, POS issue resolution, client coordination, and end-user training. Skilled in Windows systems, basic networking, remote support tools, SQL, Power BI, and technical documentation. Growing toward an **Application Support Engineer / Data Analyst** role.
+MCA graduate working as an **IT Support Executive** at Wildfox Business Advocacy (WFX), providing L1/L2 technical support for Ginesys ERP and POS applications across multiple retail clients. Experienced in incident management, application troubleshooting, root-cause analysis, ERP configuration, POS issue resolution, client coordination, and end-user training. Skilled in Windows systems, basic networking, remote support tools, SQL, Power BI, and technical documentation.
 
 ## 💼 Current Role
 **IT Support Executive** · Wildfox Business Advocacy (WFX) · Bengaluru, India · *May 2026 – Present*
