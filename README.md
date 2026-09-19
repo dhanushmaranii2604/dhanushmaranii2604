@@ -2,6 +2,10 @@
 <h3 align="center">IT Support Executive | ERP Support</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanushmaranii2604&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/dhanush-thetechie/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,7 +23,19 @@
 ---
 
 ## 👨‍💻 Professional Summary
-MCA graduate working as an **IT Support Executive** at Wildfox Business Advocacy (WFX), providing L1/L2 technical support for Ginesys ERP and POS applications across multiple retail clients. Experienced in incident management, application troubleshooting, root-cause analysis, ERP configuration, POS issue resolution, client coordination, and end-user training. Skilled in Windows systems, basic networking, remote support tools, SQL, Power BI, and technical documentation.
+
+```python
+class DhanushM:
+    def __init__(self):
+        self.role = "IT Support Executive | ERP Support"
+        self.location = "Bengaluru, India"
+        self.experience = "L1/L2 Support, Ginesys ERP, POS Applications"
+        self.skills = ["SQL", "Power BI", "Python", "Flask", "TOAD", "MySQL"]
+        self.currently_learning = ["Advanced SQL", "Power BI", "ITIL Foundation"]
+    
+    def current_focus(self):
+        return "Resolving 10-20 incident tickets daily, ensuring SLA compliance, and building web-based ERP reporting tools using SQL and Power BI."
+```
 
 ## 💼 Current Role
 **IT Support Executive** · Wildfox Business Advocacy (WFX) · Bengaluru, India · *May 2026 – Present*
@@ -28,7 +44,10 @@ MCA graduate working as an **IT Support Executive** at Wildfox Business Advocacy
 *   Work with Oracle database environments through **TOAD**, performing Oracle-related configuration and data validation activities to support ERP data accuracy and MIS reporting.
 *   Configure Ginesys ERP admin utilities (Barcode Print Configuration, Numbering Scheme, Data Import) across core modules — Admin, Inventory, Sales & Distribution, and POS Management.
 *   Provide hands-on client handling and end-user training to retail store staff on Ginesys ERP/POS usage, using Outlook, AnyDesk, and UltraViewer for remote support.
-*   Developed a web-based ERP ticket-status reporting tool using SQL and Power BI.
+
+## 🏆 Key Achievements
+*   **Built an Internal ERP Reporting Tool:** Designed and developed a web-based ticket-status dashboard using SQL and Power BI, streamlining incident tracking for the support team.
+*   **SLA Compliance:** Consistently resolve 10–20 L1/L2 ERP/POS tickets daily while meeting strict SLA targets across multiple retail clients.
 
 ## 🧰 Core Competencies & Technical Skills
 
@@ -39,6 +58,17 @@ MCA graduate working as an **IT Support Executive** at Wildfox Business Advocacy
 | **Databases & Reporting** | MySQL, TOAD, Power BI, KPI Dashboards, MS Excel (Pivot Tables, VLOOKUP, Advanced Formulas) |
 | **Programming & Scripting** | Python, SQL, Flask |
 | **Client Handling** | Client Handling, End-User Training, Stakeholder Communication, Technical Documentation |
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Ginesys_ERP-005C84?style=for-the-badge&logo=target&logoColor=white" alt="Ginesys" />
+</p>
 
 ## 🌱 Currently Learning
 *   **SQL:** Building up from the fundamentals in MySQL Workbench (DDL, DML, DQL, aggregates, GROUP BY/HAVING), now moving into joins and subqueries.
@@ -75,13 +105,25 @@ MCA graduate working as an **IT Support Executive** at Wildfox Business Advocacy
 *   **Google Cloud Computing Foundations** — NPTEL · Credential ID: NPTEL24CS131S552806127
 *   **Introduction to DevOps Tools** — Simplilearn · Credential ID: 7649959
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanushmaranii2604&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushmaranii2604&show_icons=true&theme=dracula&hide_border=true" alt="Dhanush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushmaranii2604&theme=dracula&hide_border=true" alt="Dhanush's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushmaranii2604&theme=dracula&hide_border=true" alt="Dhanush's GitHub Streak" width="60%" />
+</p>
+
+## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
 </p>
 
 ## 📫 Let's Connect
 *   📧 **Email:** dhanushmaranii@gmail.com
 *   💼 **LinkedIn:** [linkedin.com/in/dhanush-thetechie](https://www.linkedin.com/in/dhanush-thetechie/)
 *   📍 **Location:** Bengaluru, India
+*   🗣️ **Languages:** English, Hindi, Kannada
+*   💻 **LeetCode:** [leetcode.com/your-username](https://leetcode.com/) *(Replace with your actual link!)*
+*   🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) *(Replace with your actual link, or delete this line if you don't have one)*
