@@ -38,8 +38,8 @@ MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox 
 *   Provide hands-on client handling and end-user training to retail store staff on Ginesys ERP/POS usage, using Outlook, AnyDesk, and UltraViewer for remote support.
 
 ## 🏆 Key Achievements
-*   **Built an Internal ERP Reporting Tool:** Designed and developed a web-based ticket-status dashboard using SQL and Power BI, streamlining incident tracking for the support team.
-*   **SLA Compliance:** Consistently resolve 10–20 L1/L2 ERP/POS tickets daily while meeting strict SLA targets across multiple retail clients.
+*   **Built an Internal ERP Reporting Tool:** Designed and developed a web-based ticket-status dashboard using SQL and Power BI to track incident volume and resolution timelines.
+*   **SLA Compliance:** Consistently resolve 10–20 L1/L2 ERP/POS tickets daily while meeting defined SLA targets across multiple retail clients.
 
 ## 🧰 Core Competencies & Technical Skills
 
@@ -59,7 +59,6 @@ MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Ginesys_ERP-005C84?style=for-the-badge&logo=target&logoColor=white" alt="Ginesys" />
 </p>
 
 ## 🌱 Currently Learning
@@ -81,12 +80,6 @@ MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox 
 *   Preprocessed and augmented the image dataset (resizing, normalization, data augmentation) and iteratively trained and evaluated the model.
 *   Built and deployed a Flask-based web application where users upload a leaf image and receive the predicted disease along with suggested remedies.
 
-### 🔹 [Mission-Critical Incident Management System](https://github.com/dhanushmaranii2604/incident-management-system)
-`JavaScript` `MongoDB` `PostgreSQL` `Redis` `React`
-*   Developed a real-time incident management system handling high-throughput signal ingestion (10k/sec).
-*   Implemented debouncing strategies and Strategy & State design patterns for robust incident tracking.
-*   Built a React dashboard with live WebSocket updates for real-time monitoring and response.
-
 ## 🎓 Education
 *   **Master of Computer Applications (MCA)** · Nitte Meenakshi Institute of Technology, Visvesvaraya Technological University (VTU) · 2023 – 2025 · CGPA: 7.17/10
 *   **Bachelor of Computer Applications (BCA)** · Seshadripuram First Grade College, Bengaluru City University (BCU) · 2020 – 2023 · CGPA: 7.61/10
@@ -101,4 +94,4 @@ MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox 
 *   📧 **Email:** dhanushmaranii@gmail.com
 *   💼 **LinkedIn:** [linkedin.com/in/dhanush-thetechie](https://www.linkedin.com/in/dhanush-thetechie/)
 *   📍 **Location:** Bengaluru, India
-*   🗣️ **Languages:** English, Hindi, Kannada
+*   🗣️ **Languages:** English, Kannada, Hindi, Telugu
