@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dhanush M 👋</h1>
-<h3 align="center">IT Support Executive | ERP & POS Support | SQL | Power BI</h3>
+<h3 align="center">IT Support Executive · ERP & POS Support · SQL · Power BI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanushmaranii2604&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -22,25 +22,30 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox Business Advocacy (WFX), specializing in **L1/L2 support for Ginesys ERP and POS applications** across multiple retail client environments.
+## 👨‍💻 About Me
 
-*   **Core Expertise:** Incident Management, Application Troubleshooting, Root Cause Analysis, ERP Configuration, and POS Issue Resolution.
-*   **Technical Skills:** Windows Systems, Basic Networking, Remote Support Tools, SQL, Power BI, Technical Documentation, and Oracle Database Support.
-*   **Current Focus:** Growing toward an **Application Support Engineer / Data Analyst** role by strengthening SQL, Power BI, and business reporting skills.
+I am an MCA graduate and IT Support Executive at **Wildfox Business Advocacy (WFX)**, providing L1/L2 support for **Ginesys ERP and POS applications** across retail client environments.
+
+- 🔧 Troubleshoot ERP/POS incidents, application errors, and transaction issues.
+- 🗄️ Work with Oracle database environments through TOAD for configuration and validation.
+- 📊 Build practical SQL and Power BI reports to turn support data into useful business insights.
+- 🎯 Growing toward an **Application Support Engineer / Data Analyst** role.
 
 ## 💼 Current Role
+
 **IT Support Executive** · Wildfox Business Advocacy (WFX) · Bengaluru, India · *May 2026 – Present*
-*   Deliver L1/L2 technical support for **Ginesys ERP and POS applications** across multiple retail client stores, resolving **10–20 incident tickets daily** while meeting defined SLA targets.
-*   Diagnose root-cause issues in ERP/POS transactions and application errors, coordinating with internal teams and retail clients to resolve incidents efficiently.
-*   Work with **Oracle database environments through TOAD**, performing configuration and validation tasks to support ERP data accuracy and MIS reporting.
-*   Configure Ginesys ERP admin utilities such as **Barcode Print Configuration, Numbering Scheme, and Data Import** across core modules including Admin, Inventory, Sales & Distribution, and POS Management.
-*   Provide hands-on support and end-user training to retail store staff on Ginesys ERP/POS usage using Outlook, AnyDesk, and UltraViewer for remote assistance.
+
+- Deliver L1/L2 technical support for Ginesys ERP and POS applications across multiple retail client stores, resolving **10–20 incident tickets daily** while meeting defined SLA targets.
+- Diagnose root-cause issues in ERP/POS transactions and application errors, coordinating with internal teams and retail clients to resolve incidents efficiently.
+- Work with Oracle database environments through TOAD, performing configuration and validation tasks to support ERP data accuracy and MIS reporting.
+- Configure Ginesys ERP admin utilities such as **Barcode Print Configuration, Numbering Scheme, and Data Import** across Admin, Inventory, Sales & Distribution, and POS Management modules.
+- Provide hands-on support and end-user training to retail store staff using Outlook, AnyDesk, and UltraViewer for remote assistance.
 
 ## 🏆 Key Achievements
-*   **Built an Internal ERP Reporting Dashboard:** Created an interactive ticket-status dashboard using **SQL and Power BI** to track incident volume, resolution timelines, and operational performance.
-*   **SLA Compliance:** Consistently resolved **10–20 L1/L2 ERP/POS tickets daily** while meeting service-level targets across multiple retail clients.
-*   **ERP Configuration Support:** Enabled data accuracy and smooth business operations by configuring core modules and validating transactional data across retail workflows.
+
+- **Built an Internal ERP Reporting Dashboard:** Created an interactive ticket-status dashboard using SQL and Power BI to track incident volume, resolution timelines, and operational performance.
+- **SLA Compliance:** Consistently resolved **10–20 L1/L2 ERP/POS tickets daily** while meeting service-level targets across multiple retail clients.
+- **ERP Configuration Support:** Improved data accuracy and supported smooth retail operations by configuring core modules and validating transactional data.
 
 ## 🧰 Core Competencies & Technical Skills
 
@@ -50,9 +55,10 @@ MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox 
 | **ERP & POS Systems** | Ginesys ERP, Ginesys POS, Ginesys Care, ITRM Ticket Management, Barcode Print Configuration, Numbering Scheme, Data Import |
 | **Databases & Reporting** | Oracle, MySQL, TOAD, Power BI, KPI Dashboards, MS Excel (Pivot Tables, VLOOKUP, Advanced Formulas) |
 | **Programming & Scripting** | Python, SQL, Flask |
-| **Client Handling** | Client Handling, End-User Training, Stakeholder Communication, Technical Documentation |
+| **Client Handling** | End-User Training, Stakeholder Communication, Client Handling, Technical Documentation |
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -64,36 +70,48 @@ MCA graduate with hands-on experience as an **IT Support Executive** at Wildfox 
 </p>
 
 ## 🌱 Currently Learning
-*   **SQL:** Strengthening fundamentals with MySQL Workbench and progressing into joins, subqueries, window functions, and query optimization.
-*   **Power BI:** Learning data modeling, Power Query, DAX, and dashboard design through Microsoft Learn.
-*   **ITIL Foundation:** Exploring IT service management concepts to improve support processes and service quality.
+
+- **SQL:** Joins, subqueries, window functions, and query optimization using MySQL Workbench.
+- **Power BI:** Data modeling, Power Query, DAX, and dashboard design through Microsoft Learn.
+- **ITIL Foundation:** IT service management concepts to improve support processes and service quality.
 
 ## 📌 Featured Projects
 
 ### 🔹 [Sales Forecasting & Business Intelligence Dashboard](https://github.com/dhanushmaranii2604/Sales-Forecasting-Business-Intelligence-)
+
 `Python` `SQL` `Power BI`
-*   Built a sales data analysis project applying core SQL operations such as `SELECT`, `WHERE`, `GROUP BY`, and `JOIN` to explore revenue trends and product performance.
-*   Used Python scripts to clean and transform sales data before loading it into the reporting layer.
-*   Created a Power BI dashboard to visualize sales performance by region and product through charts and KPI cards.
+
+- Built a sales data analysis project using SQL operations such as `SELECT`, `WHERE`, `GROUP BY`, and `JOIN` to explore revenue trends and product performance.
+- Used Python scripts to clean and transform sales data before loading it into the reporting layer.
+- Created a Power BI dashboard to visualize sales performance by region and product through charts and KPI cards.
 
 ### 🔹 [Visual Plant Disease Diagnosis using AI & Deep Learning](https://github.com/dhanushmaranii2604/plant-disease-detection)
+
 `Python` `TensorFlow` `Flask` `Deep Learning`
-*   Trained a deep learning image classification model using Python and TensorFlow on the PlantVillage dataset across multiple plant disease classes.
-*   Preprocessed and augmented the image dataset through resizing, normalization, and augmentation to improve model accuracy and robustness.
-*   Built and deployed a Flask-based web application where users upload a leaf image and receive disease predictions along with suggested remedies.
+
+- Trained a deep learning image-classification model using Python and TensorFlow on the PlantVillage dataset across multiple plant disease classes.
+- Preprocessed and augmented the image dataset through resizing, normalization, and augmentation to improve model accuracy and robustness.
+- Built a Flask-based web application where users upload a leaf image and receive disease predictions with suggested remedies.
 
 ## 🎓 Education
-*   **Master of Computer Applications (MCA)** · Nitte Meenakshi Institute of Technology, Visvesvaraya Technological University (VTU) · 2023 – 2025 · CGPA: 7.17/10
-*   **Bachelor of Computer Applications (BCA)** · Seshadripuram First Grade College, Bengaluru City University (BCU) · 2020 – 2023 · CGPA: 7.61/10
+
+- **Master of Computer Applications (MCA)** · Nitte Meenakshi Institute of Technology, Visvesvaraya Technological University (VTU) · 2023–2025 · CGPA: 7.17/10
+- **Bachelor of Computer Applications (BCA)** · Seshadripuram First Grade College, Bengaluru City University (BCU) · 2020–2023 · CGPA: 7.61/10
 
 ## 📜 Certifications
-*   **Data Analytics Essentials** — Cisco Networking Academy
-*   **Data Visualization: Empowering Business with Effective Insights** — Forage
-*   **Google Cloud Computing Foundations** — NPTEL · Credential ID: NPTEL24CS131S552806127
-*   **Introduction to DevOps Tools** — Simplilearn · Credential ID: 7649959
+
+- **Data Analytics Essentials** — Cisco Networking Academy
+- **Data Visualization: Empowering Business with Effective Insights** — Forage
+- **Google Cloud Computing Foundations** — NPTEL · Credential ID: NPTEL24CS131S552806127
+- **Introduction to DevOps Tools** — Simplilearn · Credential ID: 7649959
 
 ## 📫 Let's Connect
-*   📧 **Email:** dhanushmaranii@gmail.com
-*   💼 **LinkedIn:** [linkedin.com/in/dhanush-thetechie](https://www.linkedin.com/in/dhanush-thetechie/)
-*   📍 **Location:** Bengaluru, India
-*   🗣️ **Languages:** English, Kannada, Hindi, Telugu
+
+- 📧 **Email:** [dhanushmaranii@gmail.com](mailto:dhanushmaranii@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/dhanush-thetechie](https://www.linkedin.com/in/dhanush-thetechie/)
+- 📍 **Location:** Bengaluru, India
+- 🗣️ **Languages:** English, Kannada, Hindi, Telugu
+
+---
+
+<p align="center">Thanks for visiting my profile! Feel free to explore my projects and connect with me.</p>
